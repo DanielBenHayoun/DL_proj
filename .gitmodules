@@ -1,0 +1,3 @@
+[submodule "SaccadeNet"]
+	path = SaccadeNet
+	url = https://github.com/AllenPeng0209/SaccadeNet.git
